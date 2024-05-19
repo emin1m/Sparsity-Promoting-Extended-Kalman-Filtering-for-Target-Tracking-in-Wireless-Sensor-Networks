@@ -1,0 +1,1 @@
+This repository contains the Python implementation of the sparsity-promoting extended Kalman filter (EKF) for target tracking in wireless sensor networks (WSNs). This project is based on the theoretical framework provided by Engin Maşazade et al., aimed at minimizing estimation error while promoting energy efficiency.
